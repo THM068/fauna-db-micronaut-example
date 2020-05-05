@@ -1,7 +1,6 @@
 package com.raywenderlich;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.annotation.JsonUnwrapped;
 import io.micronaut.core.annotation.Introspected;
 
 import java.io.Serializable;
